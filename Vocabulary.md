@@ -12,3 +12,5 @@
 | Switch gears | teeth into |
 | Sink your teeth into | 换档，改变当前的状态。 It took her a long time to switch gears and become a coach after she was forced into retirement by her injuries. |
 | palindromic substring | 回文子串 |
+| slip one's mind | 忘了。I was supposed to pick up pizza on my way home, but it completely slipped my mind.我本该回家路上顺道把披萨取回来的，结果忘得一干二净。 |
+
