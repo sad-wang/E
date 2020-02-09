@@ -13,6 +13,6 @@
 | Sink your teeth into | 换档，改变当前的状态。 It took her a long time to switch gears and become a coach after she was forced into retirement by her injuries. |
 | palindromic substring | 回文子串 |
 | slip one's mind | 忘了。I was supposed to pick up pizza on my way home, but it completely slipped my mind.我本该回家路上顺道把披萨取回来的，结果忘得一干二净。 |
-| torn | vt. 撕开；撕掉；扯破；击破；裂开；拉伤（肌肉、韧带）；<br/>（非正式）飞跑；<br/>（眼睛）流眼泪（tear 的过去分词） |
-| uproot | adj. 难以抉择的，摇摆不定的<br/>vt. 根除;连根拔起;把…赶出家园;使无家可归; |
+| torn | vt. 撕开；撕掉；扯破；击破；裂开；拉伤（肌肉、韧带）；<br/>（非正式）飞跑；<br/>（眼睛）流眼泪（tear 的过去分词）<br/>;adj. 难以抉择的，摇摆不定的 |
+| uproot | vt. 根除;连根拔起;把…赶出家园;使无家可归; |
 
